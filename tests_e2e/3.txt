@@ -1,0 +1,3 @@
+The  following is the output for 3.config and 3.in
+
+The Fire error function is tested

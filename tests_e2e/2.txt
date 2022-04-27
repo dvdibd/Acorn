@@ -1,0 +1,3 @@
+The  following is the output for 2.config and 2.in
+
+Teleport function, water and fire are tested 

@@ -1,0 +1,3 @@
+The  following is the output for 1.config and 1.in
+
+We tested using air water and fire 

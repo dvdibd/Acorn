@@ -1,0 +1,3 @@
+The  following is the output for 5.config and 5.in
+
+It tests all the functionalities of the code combined
